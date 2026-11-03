@@ -34,11 +34,15 @@
 
 ## Meme City & The Marketplace
 
+* [Meme City](meme-city-and-the-marketplace/meme-city.md)
+* [The Marketplace](meme-city-and-the-marketplace/the-marketplace.md)
+* [Partner Portals](meme-city-and-the-marketplace/partner-portals.md)
 * [Unique Burn Mechanism](meme-city-and-the-marketplace/unique-burn-mechanism.md)
 
 ## $MTA Token
 
 * [$MTA](usdmta-token/usdmta.md)
+* [The Presale](usdmta-token/the-presale.md)
 * [Presale Vesting & Round Multipliers](usdmta-token/presale-vesting-and-round-multipliers.md)
 * [Tokenomics](usdmta-token/tokenomics/README.md)
   * [Vesting Schedule at a Glance](usdmta-token/tokenomics/vesting-schedule-at-a-glance.md)

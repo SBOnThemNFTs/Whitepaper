@@ -18,7 +18,7 @@ Our verification process is meticulous to ensure users profiles are not able to 
 
 
 
-These steps are to minimize any risk factors for fraudulent or duplicate claims, while providing simplified - _from start to finish_ - steps to participate.
+These steps are to minimize any risk factors for fraudulent or duplicate claims, while providing simplified - _from start to finish_ - steps to participate. Verified players use the same linked wallet in Meme City and the Marketplace.
 
 
 

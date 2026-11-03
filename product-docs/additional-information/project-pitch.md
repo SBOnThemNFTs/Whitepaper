@@ -17,6 +17,7 @@ It's positioned as parody IP (legally distancing itself from Rockstar), while st
 * ﻿﻿The Art: Creative thematic design that ties into the GTA aesthetic-but with meme-driven innovation.
 * ﻿﻿Verification Platform: A system where GTA Online achievements can be verified via a process involving Solana wallet creation, Rockstar profile integration, minting an Access NFT, and claim allocation.
 * ﻿﻿$MTA Token: The native token, underpinning economic incentives and community participation.
+* ﻿﻿Meme City & The Marketplace: a live multiplayer city with partner portals and ad surfaces, and a store of custom MTA editions paid in $MTA only. Both are shipping products, not promises.
 
 **- Why It Matters (Investor Thesis)**
 
@@ -24,6 +25,8 @@ It's positioned as parody IP (legally distancing itself from Rockstar), while st
 * ﻿﻿Novel Retroactive Monetization: Most Web3 gaming requires new behavior. MTA instead rewards players for actions they ve already taken. This drastically lowers adoption friction.
 * ﻿﻿Meme Power + Web4 Branding: The meme-driven parody angle isn't just branding —it's a viral adoption strategy that can penetrate Web3 culture faster than polished corporate-style projects.
 * ﻿﻿Economic Sustainability: By balancing liquidity, claims, and reserves, the tokenomics avoid the "pump-and-dump" death spiral.
+* ﻿﻿Live Product: verification, Meme City, the Marketplace and the presale are all running today, with players, partners and buyers already in them.
+* ﻿﻿Two Engines Of Demand That Aren't Speculation: partner placements and marketplace purchases are both paid in $MTA, and marketplace sales where the maker takes cash burn half the tokens. Demand up, supply down, no sell pressure from the project.
 
 **- Investor Takeaway**
 
@@ -32,6 +35,7 @@ It's positioned as parody IP (legally distancing itself from Rockstar), while st
 * ﻿﻿Solid Token Model: With over 70% of tokens allocated to the community and liquidity, incentives are front-loaded for engagement and platform health.
 * ﻿﻿Scalable Verification Mechanism: The NFT-gated, wallet-verified claim system allows for robust, auditable distribution and scalability.
 * ﻿﻿Clear Governance & Funding Structure: Treasury, team, and marketing all get dedicated allocations- allowing for strategic control and growth execution.
+* ﻿﻿Partner-Ready Distribution: Meme City already has working portals to Phantom, Dexscreener, Jupiter, Meteora and Moonshot. Each partner that takes a building brings its own audience into the city and onto $MTA.
 
 In short: MTA is positioned as the first parody-powered, gamer-first Web4 token economy, creating real-world financial upside from digital achievements.
 
@@ -41,4 +45,4 @@ In short: MTA is positioned as the first parody-powered, gamer-first Web4 token 
 
 Meme Theft Auto offers a compelling investment proposition: a fresh concept with token mechanics that align user incentives and platform longevity. If you want Web4 innovation that speaks both to gamers and crypto-natives, this is it.
 
-[Share on Twitter](https://x.com/intent/tweet?text=Check%20out%20Meme%20Theft%20Auto%20%F0%9F%9A%80%20https%3A%2F%2Fjullie.gitbook.io%2Fmta)
+[Share on Twitter](https://x.com/intent/tweet?text=Check%20out%20Meme%20Theft%20Auto%20%F0%9F%9A%80%20https%3A%2F%2Fwhitepaper.memetheftauto.com)

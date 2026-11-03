@@ -4,8 +4,6 @@ icon: hand-holding-dollar
 
 # Claim Allocation
 
-The claim date is currently TBD. The claim will coincide with the completion of the burn mechanism. For updates, include email in google docs submission for verification platform. Claim site also shows timer and will be updated once a date is solidified.
+Claim opens 30 days after the $MTA listing (listing: Nov 21, 2026, 12:00 PM Eastern), when the first Community Claim tranche unlocks. Your rate, the unlock pace and the six-tranche release are on the [Community Claim 20%](../../usdmta-token/tokenomics/community-claim-20.md) page. The claim site shows a timer and updates as each tranche opens.
 
-### More Details Coming Soon..
-
-{% embed url="https://claim.memetheftauto.io" %}
+{% embed url="https://claim.memetheftauto.com" %}

@@ -8,9 +8,9 @@ icon: comments
 # Contact
 
 **Discord:** [https://discord.gg/memetheftauto](https://discord.gg/memetheftauto)\
-**Website:** [**https://www.memetheftauto.io**](https://www.memetheftauto.io)\
+**Website:** [**https://memetheftauto.com**](https://memetheftauto.com)\
 **Twitter:** [https://x.com/\_memetheftauto\_](https://x.com/_memetheftauto_)\
-**Email: support@memetheftauto.io**
+**Email: support@web4innovations.io**
 
 ## Founder:
 

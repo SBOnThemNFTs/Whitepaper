@@ -11,7 +11,7 @@ The Community Claim is the rewards pool for members who verify their Rockstar pr
 
 ### **How It's Released:**
 
-**Six monthly tranches, first come, first served.** The 200M pool is split into six equal tranches of 33.3M. The first opens 30 days after listing; one opens each month after that. Claims are instant: verify, claim, receive.
+**Six monthly tranches, first come, first served.** The 200M pool is split into six equal tranches of 33.3M. The first opens 30 days after listing; one opens each month after that. Claims are instant: verify, claim, receive. Tokens unsold in the presale are added to this pool at presale close and released on their own vesting schedule, announced at that time.
 
 * When a month's tranche is used up, every verified member who hasn't yet been paid is placed in a queue in the order they verified, and is paid automatically the moment the next tranche opens. Verifying late never changes your rate — only the month you receive it.
 * Whatever is left in a tranche rolls into the next month. **Whatever is left after month six is burned.**
@@ -24,7 +24,7 @@ The Community Claim is the rewards pool for members who verify their Rockstar pr
 | $25 (typical) | all of it | —      | —      | —      |                           |
 | $150          | all of it | —      | —      | —      |                           |
 | $300          | $150      | $150   | —      | —      |                           |
-| $6000         | $150      | $150   | $150   | $150   |                           |
+| $600          | $150      | $150   | $150   | $150   |                           |
 | $1,000        | $150      | $150   | $150   | $150   | fully released by day 180 |
 
 Most members' claims are fully liquid the day they receive them. Larger claims unlock at the same pace as everyone else's, so a member with a $1,000 claim can sell about the same dollar amount per month as a member with a $150 claim — nobody's position lets them move the market more than anyone else's.

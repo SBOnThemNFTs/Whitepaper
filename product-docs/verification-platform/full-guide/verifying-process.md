@@ -10,13 +10,13 @@ icon: badge-check
 
 ***
 
-{% embed url="https://verify.memetheftauto.io" %}
+{% embed url="https://verify.memetheftauto.com" %}
 
 ## Get Access
 
 To get access to verification platform, users must fill out google doc provided via our discord server, partnerships, a & twitter giveaways. Discord ID/X Username, Rockstar ID, Gaming Console, and Solana Wallet Address must be provided in form, email address is optional. (Benficial for updates on claim, start of phase 2, etc.)&#x20;
 
-Once form is completed, user can proceed to [https://verify.memetheftauto.io](https://verify.memetheftauto.io/)
+Once form is completed, user can proceed to [https://verify.memetheftauto.com](https://verify.memetheftauto.com/)
 
 ## Profile Verification
 
@@ -31,7 +31,7 @@ Once form is completed, user can proceed to [https://verify.memetheftauto.io](ht
 Verification Approval can take between 24-48 Hours.&#x20;
 {% endhint %}
 
-7. Revisit [https://verify.memetheftauto.io/](https://verify.memetheftauto.io/), login by connecting submitted wallet.
+7. Revisit [https://verify.memetheftauto.com/](https://verify.memetheftauto.com/), login by connecting submitted wallet.
 8. A message will prompt user if profile has be verified.
 9. Click Mint Free Access NFT.
 10. User will be redirected to mint site for access nft. [{mint platform guide}](mint-access-nft.md)

@@ -1,0 +1,11 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: Meme Theft Auto Docs
+  structure:
+    - type: space
+      key: space-1
+      title: Meme Theft Auto Whitepaper
+      path: product-docs
+      default: true
+      content:
+        directory: ./product-docs
